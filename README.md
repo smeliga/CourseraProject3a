@@ -21,7 +21,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 run_analyis.R creates a dataframe "subj_act_mean_data" that is written to file "tidy mean dataset.txt" which contains mean measurements by subject and activity. Only mean and std variable were selected.
 
-Mode information about the datasets, variables and measures is reported in "codebook.md".
+More information about the datasets, variables and measures is reported in "codebook.md".
 
 
 #### Function
